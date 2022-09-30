@@ -1,1 +1,2 @@
-Content : screenshots 
+Content : screenshots . 
+This file is used to understand the processes that occur in the process of exploring GitHub
